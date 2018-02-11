@@ -14,3 +14,6 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 sandbox_new/build/tmp/jar/MANIFEST.MF
 sandbox_new/build/libs/sandbox_new.jar
+sandbox_new/build/scripts/sandbox_new.bat
+sandbox_new/build/distributions/sandbox_new.tar
+sandbox_new/build/distributions/sandbox_new.zip
